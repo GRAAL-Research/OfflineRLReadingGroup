@@ -17,13 +17,14 @@ The rest of the summer is TBD.
 |:----------------:|:------------------------------------------------------------:|
 |19th May, 2021 | [Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2006.04779) | 
 |26th May, 2021 | [Offline Reinforcement Learning with Fisher Divergence Critic Regularization](https://arxiv.org/abs/2103.08050) | 
-|2nd June, 2021 | [An Optimistic Perspective on Offline Reinforcement Learning](https://arxiv.org/abs/1907.04543) | 
-|9th June, 2021 | [Optimism in Reinforcement Learning with Generalized Linear Function Approximation](https://arxiv.org/abs/1912.04136) | 
-|16th June, 2021 | [Is Pessimism Provably Efficient for Offline RL?](https://arxiv.org/abs/2012.15085) (1/3) | 
-|23th June, 2021 | [Is Pessimism Provably Efficient for Offline RL?](https://arxiv.org/abs/2012.15085) (2/3) | 
-|30th June, 2021 | [Is Pessimism Provably Efficient for Offline RL?](https://arxiv.org/abs/2012.15085) (3/3) | 
-|7th July, 2021 | [Universal Off-Policy Evaluation](https://arxiv.org/abs/2104.12820) | 
-|14th July, 2021 | [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning](https://arxiv.org/abs/2103.06326) | 
+|2nd June, 2021 | [Universal Off-Policy Evaluation](https://arxiv.org/abs/2104.12820) | 
+|9th June, 2021 | [What are the Statistical Limits of Offline RL with Linear Function Approximation?](https://arxiv.org/abs/2010.11895) | 
+|16th June, 2021 | [An Optimistic Perspective on Offline Reinforcement Learning](https://arxiv.org/abs/1907.04543) | 
+|23rd June, 2021 | [Optimism in Reinforcement Learning with Generalized Linear Function Approximation](https://arxiv.org/abs/1912.04136) | 
+|30th June, 2021 | [Is Pessimism Provably Efficient for Offline RL?](https://arxiv.org/abs/2012.15085) (1/3) | 
+|7th July, 2021 | [Is Pessimism Provably Efficient for Offline RL?](https://arxiv.org/abs/2012.15085) (2/3) | 
+|14th July, 2021 | [Is Pessimism Provably Efficient for Offline RL?](https://arxiv.org/abs/2012.15085) (3/3) | 
+|21st July, 2021 | [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning](https://arxiv.org/abs/2103.06326) | 
 
 ## Winter 2021
 
