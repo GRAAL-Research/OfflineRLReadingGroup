@@ -10,7 +10,7 @@ Meetings are every Wednesdays from 3PM to 4PM (EST) and occur on [Google Meet](h
 
 ## Summer 2021
 
-Only scheduled until July 14th for now.
+Only scheduled until July 21st for now.
 The rest of the summer is TBD.
 
 |       Date       | Paper |
