@@ -1,6 +1,6 @@
 # Weekly Reading Group on Offline RL at [GRAIL](https://grail.ift.ulaval.ca/)
 
-**Organizers**: [Mathieu Godbout](mailto:mathieu.godbout.3@ulaval.ca) and Ulysse Côté-Allard
+**Organizers**: [Mathieu Godbout](mailto:mathieu.godbout.3@ulaval.ca) and [Ulysse Côté-Allard](mailto:ulysseca@uio.no)
 
 ## Structure
 
