@@ -24,7 +24,8 @@ The rest of the summer is TBD.
 |30th June, 2021 | [Is Pessimism Provably Efficient for Offline RL?](https://arxiv.org/abs/2012.15085) (1/3) | 
 |7th July, 2021 | [Is Pessimism Provably Efficient for Offline RL?](https://arxiv.org/abs/2012.15085) (2/3) | 
 |14th July, 2021 | [Is Pessimism Provably Efficient for Offline RL?](https://arxiv.org/abs/2012.15085) (3/3) | 
-|21st July, 2021 | [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning](https://arxiv.org/abs/2103.06326) | 
+|21st July, 2021 | [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://arxiv.org/abs/2103.12021) | 
+|28th July, 2021 | [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning](https://arxiv.org/abs/2103.06326) | 
 
 ## Winter 2021
 
