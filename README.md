@@ -21,10 +21,10 @@ The rest of the summer is TBD.
 |9th June, 2021 | [What are the Statistical Limits of Offline RL with Linear Function Approximation?](https://arxiv.org/abs/2010.11895) | 
 |16th June, 2021 | [An Optimistic Perspective on Offline Reinforcement Learning](https://arxiv.org/abs/1907.04543) | 
 |23rd June, 2021 | [Optimism in Reinforcement Learning with Generalized Linear Function Approximation](https://arxiv.org/abs/1912.04136) | 
-|30th June, 2021 | [Is Pessimism Provably Efficient for Offline RL?](https://arxiv.org/abs/2012.15085) (1/3) | 
-|7th July, 2021 | [Is Pessimism Provably Efficient for Offline RL?](https://arxiv.org/abs/2012.15085) (2/3) | 
-|14th July, 2021 | [Is Pessimism Provably Efficient for Offline RL?](https://arxiv.org/abs/2012.15085) (3/3) | 
-|21st July, 2021 | [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://arxiv.org/abs/2103.12021) | 
+|30th June, 2021 | [Is Pessimism Provably Efficient for Offline RL?](https://arxiv.org/abs/2012.15085) (The paper is pretty long for a single week's reading. We will base our meeting around [this talk given by the author](https://www.youtube.com/watch?v=vo6HZUDXE1w)) | 
+|7th July, 2021 | [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://arxiv.org/abs/2103.12021) ([Talk given by the author](https://www.youtube.com/watch?v=oK0iPImC6KI))| 
+|14th July, 2021 | Summer break | 
+|21st July, 2021 | Summer break |
 |28th July, 2021 | [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning](https://arxiv.org/abs/2103.06326) | 
 
 ## Winter 2021
