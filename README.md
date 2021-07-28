@@ -25,7 +25,8 @@ The rest of the summer is TBD.
 |7th July, 2021 | [Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism](https://arxiv.org/abs/2103.12021) ([Talk given by the author](https://www.youtube.com/watch?v=oK0iPImC6KI))| 
 |14th July, 2021 | Summer break | 
 |21st July, 2021 | Summer break |
-|28th July, 2021 | [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning](https://arxiv.org/abs/2103.06326) | 
+|28th July, 2021 | Summer break |
+|4th August, 2021 | [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning](https://arxiv.org/abs/2103.06326) | 
 
 ## Winter 2021
 
