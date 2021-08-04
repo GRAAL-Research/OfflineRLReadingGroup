@@ -10,7 +10,6 @@ Meetings are every Wednesdays from 3PM to 4PM (EST) and occur on [Google Meet](h
 
 ## Summer 2021
 
-Only scheduled until July 21st for now.
 The rest of the summer is TBD.
 
 |       Date       | Paper |
@@ -27,6 +26,7 @@ The rest of the summer is TBD.
 |21st July, 2021 | Summer break |
 |28th July, 2021 | Summer break |
 |4th August, 2021 | [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning](https://arxiv.org/abs/2103.06326) | 
+|11th August, 2021 | [Sample-Efficient Reinforcement Learning via Counterfactual-Based Data Augmentation](https://arxiv.org/abs/2012.09092) | 
 
 ## Winter 2021
 
