@@ -8,6 +8,8 @@ Everyone reads the weekly paper and a discussion guide is (pseudo-)randomly draw
 The discussion guide should only drive the conversation and make sure we are able to cover the entirety of the paper within the scheduled hour.
 Meetings are every Wednesdays from 3PM to 4PM (EST) and occur on [Google Meet](https://meet.google.com/cjz-kyhh-mox).
 
+**This reading group is open to anyone interested. If you wish to join, simply send us [an email](mailto:mathieu.godbout.3@ulaval.ca) so we can add you to our discussion channel.**
+
 ## Summer 2021
 
 The rest of the summer is TBD.
