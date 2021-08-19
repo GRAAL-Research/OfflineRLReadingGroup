@@ -6,9 +6,16 @@
 
 Everyone reads the weekly paper and a discussion guide is (pseudo-)randomly drawn at beginning of each of our meeting. 
 The discussion guide should only drive the conversation and make sure we are able to cover the entirety of the paper within the scheduled hour.
-Meetings are every Wednesdays from 3PM to 4PM (EST) and occur on [Google Meet](https://meet.google.com/cjz-kyhh-mox).
+Meetings are every Thursdays from 9AM to 10AM (EST) and occur on [Google Meet](https://meet.google.com/cjz-kyhh-mox).
 
 **This reading group is open to anyone interested. If you wish to join, simply send us [an email](mailto:mathieu.godbout.3@ulaval.ca) so we can add you to our discussion channel.**
+
+## Fall 2021
+
+|       Date       | Paper |
+|:----------------:|:------------------------------------------------------------:|
+|2nd September, 2021 | [Causality and Batch Reinforcement Learning: Complementary Approaches To Planning In Unknown Domains](https://arxiv.org/abs/2006.02579) | 
+|9th September, 2021 | [Efficient Counterfactual Learning from Bandit Feedback](https://arxiv.org/abs/1809.03084) | 
 
 ## Summer 2021
 
@@ -27,10 +34,8 @@ Meetings are every Wednesdays from 3PM to 4PM (EST) and occur on [Google Meet](h
 |28th July, 2021 | Summer break |
 |4th August, 2021 | [S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning](https://arxiv.org/abs/2103.06326) | 
 |11th August, 2021 | [Sample-Efficient Reinforcement Learning via Counterfactual-Based Data Augmentation](https://arxiv.org/abs/2012.09092) | 
-|18th August, 2021 | [MOPO: Model-based Offline Policy Optimization](https://arxiv.org/abs/2005.13239) [Second Round]| 
-|25th August, 2021 | [Risk-Averse Offline Reinforcement Learning](https://arxiv.org/abs/2102.05371) | 
-|1st September, 2021 | [Causality and Batch Reinforcement Learning: Complementary Approaches To Planning In Unknown Domains](https://arxiv.org/abs/2006.02579) | 
-|8th September, 2021 | [Efficient Counterfactual Learning from Bandit Feedback](https://arxiv.org/abs/1809.03084) | 
+|19th August, 2021 | [MOPO: Model-based Offline Policy Optimization](https://arxiv.org/abs/2005.13239) [Second Round]| 
+|26th August, 2021 | [Risk-Averse Offline Reinforcement Learning](https://arxiv.org/abs/2102.05371) | 
 
 ## Winter 2021
 
