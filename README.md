@@ -15,9 +15,9 @@ Meetings are every Thursdays from 9AM to 10AM (EST) and occur on [Google Meet](h
 |       Date       | Paper |
 |:----------------:|:------------------------------------------------------------:|
 |2nd September, 2021 | [Skipped to attend the DEEL workshop on adversarial attack (free registration)](https://www.eventbrite.ca/e/inscription-carrefour-deel-septembre-2021-168642256529) | 
-|9th September, 2021 | [Causality and Batch Reinforcement Learning: Complementary Approaches To Planning In Unknown Domains](https://arxiv.org/abs/2006.02579) | 
-|16th September, 2021 | [Efficient Counterfactual Learning from Bandit Feedback](https://arxiv.org/abs/1809.03084) | 
-|23rd September, 2021 | [Improving Long-Term Metrics in Recommendation Systems using Short-Horizon Offline RL](https://arxiv.org/abs/2106.00589) | 
+|10th September, 2021 | [Causality and Batch Reinforcement Learning: Complementary Approaches To Planning In Unknown Domains](https://arxiv.org/abs/2006.02579) | 
+|17th September, 2021 | [Efficient Counterfactual Learning from Bandit Feedback](https://arxiv.org/abs/1809.03084) | 
+|24th September, 2021 | [Improving Long-Term Metrics in Recommendation Systems using Short-Horizon Offline RL](https://arxiv.org/abs/2106.00589) | 
 
 ## Summer 2021
 
