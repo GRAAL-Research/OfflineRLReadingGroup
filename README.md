@@ -19,6 +19,7 @@ Meetings are every Thursdays from 9AM to 10AM (EST) and occur on [Google Meet](h
 |17th September, 2021 | [Causal Reinforcement Learning (ICML Tutorial) Part 1&2](https://www.youtube.com/watch?v=QRTgLWfFBMM)| 
 |1st October, 2021 | [Efficient Counterfactual Learning from Bandit Feedback](https://arxiv.org/abs/1809.03084)|
 |8th October, 2021 | [Improving Long-Term Metrics in Recommendation Systems using Short-Horizon Offline RL](https://arxiv.org/abs/2106.00589) | 
+|15th October, 2021 | [A Workflow for Offline Model-Free Robotic Reinforcement Learning](https://arxiv.org/abs/2109.10813) | 
 
 ## Summer 2021
 
