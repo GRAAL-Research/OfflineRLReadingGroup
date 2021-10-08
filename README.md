@@ -16,7 +16,7 @@ For this portion of the fall session, we will allow for papers outside of the us
 Presenters for submitted papers that aren't offline RL related will no longer be randomly sampled, rather being automatically assigned to the person who submitted said paper.
 
 |       Date       | Paper | Presenter |
-|:----------------:|:------------------------------------------------------------:|
+|:----------------:|:------------------------------------------------------------:|:------------------:|
 | DATE             | [Name of paper](Link to paper)                               | Name of presenter |
 
 ## Fall 2021
