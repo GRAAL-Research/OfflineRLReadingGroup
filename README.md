@@ -10,6 +10,15 @@ Meetings are every Thursdays from 9AM to 10AM (EST) and occur on [Google Meet](h
 
 **This reading group is open to anyone interested. If you wish to join, simply send us [an email](mailto:mathieu.godbout.3@ulaval.ca) so we can add you to our discussion channel.**
 
+## Fall 2021 (part 2)
+
+For this portion of the fall session, we will allow for papers outside of the usual offline RL scope.
+Presenters for submitted papers that aren't offline RL related will no longer be randomly sampled, rather being automatically assigned to the person who submitted said paper.
+
+|       Date       | Paper | Presenter |
+|:----------------:|:------------------------------------------------------------:|
+| DATE             | [Name of paper](Link to paper)                               | Name of presenter
+
 ## Fall 2021
 
 |       Date       | Paper |
