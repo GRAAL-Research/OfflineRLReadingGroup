@@ -17,7 +17,7 @@ Presenters for submitted papers that aren't offline RL related will no longer be
 
 |       Date       | Paper | Presenter |
 |:----------------:|:------------------------------------------------------------:|
-| DATE             | [Name of paper](Link to paper)                               | Name of presenter
+| DATE             | [Name of paper](Link to paper)                               | Name of presenter |
 
 ## Fall 2021
 
