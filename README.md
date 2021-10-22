@@ -19,6 +19,7 @@ Presenters for submitted papers that aren't offline RL related will no longer be
 |:----------------:|:------------------------------------------------------------:|:------------------:|
 | 29th October, 2021 | [Pareto Front Identification from Stochastic Bandit Feedback](http://proceedings.mlr.press/v51/auer16)  | Alexandre Larouche |
 | 5th November, 2021 | [Pessimistic Bootstrapping for Uncertainty-Driven Offline Reinforcement Learning](https://openreview.net/forum?id=Y4cs1Z3HnqL)  | Peng Cheng (Frank) |
+| 12th November, 2021 | [Logistic Q-Learning](https://arxiv.org/abs/2010.11151). A 15-minute author presentation is also [available](https://www.youtube.com/watch?v=tZbpA2NKJo0) | Mathieu Godbout |
 
 ## Fall 2021
 
