@@ -21,6 +21,8 @@ Presenters for submitted papers that aren't offline RL related will no longer be
 | 5th November, 2021 | [Pessimistic Bootstrapping for Uncertainty-Driven Offline Reinforcement Learning](https://openreview.net/forum?id=Y4cs1Z3HnqL)  | Peng Cheng (Frank) |
 | 12th November, 2021 | [COMBO: Conservative Offline Model-Based Policy Optimization](https://arxiv.org/abs/2102.08363) | Random |
 | 19th November, 2021 | [Logistic Q-Learning](https://arxiv.org/abs/2010.11151). A 15-minute author presentation is also [available](https://www.youtube.com/watch?v=tZbpA2NKJo0) | Mathieu Godbout |
+| 19th November, 2021 | [Logistic Q-Learning](https://arxiv.org/abs/2010.11151). A 15-minute author presentation is also [available](https://www.youtube.com/watch?v=tZbpA2NKJo0) | Mathieu Godbout |
+| 26th November, 2021 | [Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2106.03400).  [Code for the work's implementation](https://github.com/YiqinYang/ICQ) | Ulysse Côté-Allard |
 
 ## Fall 2021
 
