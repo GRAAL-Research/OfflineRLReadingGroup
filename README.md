@@ -6,9 +6,33 @@
 
 Everyone reads the weekly paper and a discussion guide is (pseudo-)randomly drawn at beginning of each of our meeting. 
 The discussion guide should only drive the conversation and make sure we are able to cover the entirety of the paper within the scheduled hour.
-Meetings are every Thursdays from 9AM to 10AM (EST) and occur on [Google Meet](https://meet.google.com/cjz-kyhh-mox).
+Meetings are every Friday from 9AM to 10AM (EST) and occur on [Google Meet](https://meet.google.com/cjz-kyhh-mox).
 
 **This reading group is open to anyone interested. If you wish to join, simply send us [an email](mailto:mathieu.godbout.3@ulaval.ca) so we can add you to our discussion channel.**
+
+## WINTER 2021-2022
+
+For this semester, we will follow the reinforcement learning class by Emma Brunskill (https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) at a rythm of one class per week. 
+
+|       Date       | Paper | Presenter |
+|:----------------:|:------------------------------------------------------------:|:------------------:|
+| 3rd of December, 2021 | [Class 1-2](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=1)  | Introduction & Given a Model of the World |
+| 10th December, 2021 | [Class 3](https://www.youtube.com/watch?v=dRIhrn8cc9w&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=3)  | Model-Free Policy Evaluation |
+| 17th December, 2021 | [Class 4](https://www.youtube.com/watch?v=j080VBVGkfQ&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=4) | Model Free Control |
+| 7th January, 2022 | [Class 5](https://www.youtube.com/watch?v=buptHUzDKcE&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=5) | Value Function Approximation |
+| 14th January, 2022 | [Class 6](https://www.youtube.com/watch?v=gOV8-bC1_KU&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=6) | CNNs and Deep Q Learning |
+| 7th January, 2022 | [Class 5](https://www.youtube.com/watch?v=buptHUzDKcE&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=5) | Value Function Approximation |
+| 21st January, 2022 | [Class 6](https://www.youtube.com/watch?v=gOV8-bC1_KU&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=6) | CNNs and Deep Q Learning |
+| 28th January, 2022 | [Class 7](https://www.youtube.com/watch?v=buptHUzDKcE&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=7) | Value Function Approximation |
+| 4th February, 2022 | [Class 8](https://www.youtube.com/watch?v=gOV8-bC1_KU&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=8) | Imitation Learning |
+| 11th February, 2022 | [Class 9](https://www.youtube.com/watch?v=gOV8-bC1_KU&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=9) | Policy Gradient I |
+| 18th February, 2022 | [Class 10](https://www.youtube.com/watch?v=gOV8-bC1_KU&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=10) | Policy Gradient II |
+| 25th February, 2022 | [Class 11](https://www.youtube.com/watch?v=gOV8-bC1_KU&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=11) | Policy Gradient III & Review |
+| 4th March, 2022 | [Class 12](https://www.youtube.com/watch?v=gOV8-bC1_KU&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=12) | Fast Reinforcement Learning |
+| 11th March, 2022 | [Class 13](https://www.youtube.com/watch?v=gOV8-bC1_KU&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=13) | Fast Reinforcement Learning II |
+| 18th March, 2022 | [Class 14](https://www.youtube.com/watch?v=gOV8-bC1_KU&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=14) | Fast Reinforcement Learning III |
+| 25th March, 2022 | [Class 15](https://www.youtube.com/watch?v=gOV8-bC1_KU&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=15) | Batch Reinforcement Learning |
+| 1st April, 2022 | [Class 16](https://www.youtube.com/watch?v=gOV8-bC1_KU&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=16) | Monte Carlo Tree Search |
 
 ## Fall 2021 (part 2)
 
