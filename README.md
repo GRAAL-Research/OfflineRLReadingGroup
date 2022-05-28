@@ -10,6 +10,24 @@ Meetings are every Friday from 9AM to 10AM (EST) and occur on [Google Meet](http
 
 **This reading group is open to anyone interested. If you wish to join, simply send us [an email](mailto:mathieu.godbout.3@ulaval.ca) so we can add you to our discussion channel.**
 
+## SUMMER 2022
+
+For this semester, we will look a various state of the art reinforcement learning approaches without constraint on their particular domain. The reading group will take the form of a discussion and so no one will be considered the main presentator. 
+
+|       Date       | Paper | 
+|:----------------:|:------------------------------------------------------------:|
+| 8th April, 2022 | [Why is Posterior Sampling Better than Optimism for Reinforcement Learning](https://arxiv.org/abs/1607.00215)
+| 15th April, 2022 | [Collaborating with Humans without Human Data](https://proceedings.neurips.cc/paper/2021/hash/797134c3e42371bb4979a462eb2f042a-Abstract.html)
+| 22nd April, 2022 | [Mastering the game of Go without human knowledge](https://www.nature.com/articles/nature24270?sf123103138=1)
+| 29th April, 2022 | [AlphaStar: Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.nature.com/articles/s41586-019-1724-z?)
+| 6th May, 2022 | [GFlowNet](https://www.youtube.com/watch?v=M49TMqK5uCE)
+| 13th May, 2022 | [Asymmetric self-play for automatic goal discovery in robotic manipulation](https://arxiv.org/abs/2101.04882)
+| 20th May, 2022 | [Continuous multi-task bayesian optimisation with correlation](https://www.sciencedirect.com/science/article/pii/S0377221718302261)
+| 27th May, 2022 | [Outracing champion Gran Turismo drivers with deep reinforcement learning](https://www.nature.com/articles/s41586-021-04357-7)
+| 3rd June, 2022 | [Planning with Diffusion for Flexible Behavior Synthesis](https://arxiv.org/abs/2205.09991)
+| 10th June, 2022 | TBA
+
+
 ## WINTER 2021-2022
 
 For this semester, we will follow the reinforcement learning class by Emma Brunskill (https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) at a rythm of one class per week. 
