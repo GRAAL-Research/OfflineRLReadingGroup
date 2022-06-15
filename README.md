@@ -25,8 +25,7 @@ For this semester, we will look a various state of the art reinforcement learnin
 | 20th May, 2022 | [Continuous multi-task bayesian optimisation with correlation](https://www.sciencedirect.com/science/article/pii/S0377221718302261)
 | 27th May, 2022 | [Outracing champion Gran Turismo drivers with deep reinforcement learning](https://www.nature.com/articles/s41586-021-04357-7)
 | 3rd June, 2022 | [Planning with Diffusion for Flexible Behavior Synthesis](https://arxiv.org/abs/2205.09991)
-| 10th June, 2022 | TBA
-
+| Summer Break | The reading group will start again at the end of July. More details regarding the next paper will be communicated closer to the start date. 
 
 ## WINTER 2021-2022
 
