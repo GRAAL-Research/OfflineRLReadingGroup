@@ -6,7 +6,7 @@
 
 Everyone reads the weekly paper and a discussion guide is (pseudo-)randomly drawn at beginning of each of our meeting. 
 The discussion guide should only drive the conversation and make sure we are able to cover the entirety of the paper within the scheduled hour.
-Meetings are every Friday from 9AM to 10AM (EST) and occur on [Google Meet](https://meet.google.com/cjz-kyhh-mox).
+Starting from the first of November 2022, meetings are every Tuesday from 9AM to 10AM (EST) and occur on [Zoom](https://meet.google.com/cjz-kyhh-mox).
 
 **This reading group is open to anyone interested. If you wish to join, simply send us [an email](mailto:mathieu.godbout.3@ulaval.ca) so we can add you to our discussion channel.**
 
@@ -14,6 +14,12 @@ Meetings are every Friday from 9AM to 10AM (EST) and occur on [Google Meet](http
 
 For this semester, we will look a various state of the art reinforcement learning approaches without constraint on their particular domain. The reading group will take the form of a discussion and so no one will be considered the main presentator. 
 
+## Fall 2022
+|       Date       | Paper | 
+|:----------------:|:------------------------------------------------------------:|
+| 1st November, 2022 | [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4)
+
+## Spring 2022
 |       Date       | Paper | 
 |:----------------:|:------------------------------------------------------------:|
 | 8th April, 2022 | [Why is Posterior Sampling Better than Optimism for Reinforcement Learning](https://arxiv.org/abs/1607.00215)
