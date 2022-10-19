@@ -6,7 +6,7 @@
 
 Everyone reads the weekly paper and a discussion guide is (pseudo-)randomly drawn at beginning of each of our meeting. 
 The discussion guide should only drive the conversation and make sure we are able to cover the entirety of the paper within the scheduled hour.
-Starting from the first of November 2022, meetings are every Tuesday from 9AM to 10AM (EST) and occur on [Zoom](https://meet.google.com/cjz-kyhh-mox).
+Starting from the first of November 2022, meetings are every Tuesday from 9AM to 10AM (EST) and occur on [Google Meet](https://meet.google.com/cjz-kyhh-mox).
 
 **This reading group is open to anyone interested. If you wish to join, simply send us [an email](mailto:mathieu.godbout.3@ulaval.ca) so we can add you to our discussion channel.**
 
