@@ -18,6 +18,8 @@ For this semester, we will look a various state of the art reinforcement learnin
 |       Date       | Paper | 
 |:----------------:|:------------------------------------------------------------:|
 | 1st November, 2022 | [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4)
+| 8th November, 2022 | [The Primacy Bias in Deep Reinforcement Learning](https://proceedings.mlr.press/v162/nikishin22a.html)
+| 15th November, 2022 | [Deep Reinforcement Learning at the Edge of the Statistical Precipice](https://arxiv.org/abs/2108.13264)
 
 ## Spring 2022
 |       Date       | Paper | 
